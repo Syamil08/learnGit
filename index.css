@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+header{
+    max-width: 1100px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar .nav-links {
+    list-style: none;
+}
+
+.navbar .nav-links li{
+    display: inline-block;
+    padding: 0 25px;
+}
+
+.navbar .nav-links li a{
+    text-decoration: none;
+    color :#737EA3;
+    font-weight: 500;
+}
+
+.navbar .nav-links li a:hover{
+    color: #F8B70C;
+    transition: 0.5s ease-out;
+}
+
+/* awal section */
+
+section{
+    max-width: 1100px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+section .left-description{
+    margin-top: 120px;
+}
+
+section .left-description .tags{
+    color: #FABA0D;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+
+section .left-description .title{
+    color: #3C3D3E;
+    font-size: 54px;
+    font-family: Georgia,Times,Times New Roman,serif;
+    margin-bottom: 60px;
+}
+
+section .left-description .description{
+    max-width: 446px;
+    line-height: 36px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #525971;
+    margin-bottom: 60px;
+}
+
+section .left-description .data{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 80px; 
+}
+
+section .left-description .data .social-data{
+    list-style: none;
+    padding: 0 10px 0 0;
+    display: flex;
+    align-items: center;
+}
+
+section .left-description .data .social-data li{
+    display: inline-block;
+    color: #737EA3;
+}
+
+section .left-description .data .social-data li svg{
+    padding: 10px 10px 7px 0;
+}
+
+section .left-description .btn_started{
+    border: none;
+    background: #F8B70C;
+    padding: 15px 60px;
+    font-size: 29px;
+    text-decoration: none;
+    color: #3C3D3E;
+    font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    border-radius: 50px;
+}
+
+section .right-description {
+    margin-top: 90px;
+}
+
+/* akhir section */

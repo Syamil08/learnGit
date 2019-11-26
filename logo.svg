@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="193.328" height="182.718" viewBox="0 0 193.328 182.718">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffc52f;
+      }
+
+      .cls-2 {
+        fill: #141c3c;
+        font-size: 45px;
+        font-family: Helvetica;
+      }
+    </style>
+  </defs>
+  <g id="Group_392" data-name="Group 392" transform="translate(-424.811 64.481)">
+    <path id="Path_3937" data-name="Path 3937" class="cls-1" d="M152.5,52.026l-13.081,74.731L.643,37.7,33.673.561Z" transform="matrix(-0.883, 0.469, -0.469, -0.883, 618.97, 47.137)"/>
+    <text id="Chilltrip" class="cls-2" transform="translate(582.567 46.034)"><tspan x="-150.029" y="0">Chilltrip</tspan></text>
+  </g>
+</svg>
